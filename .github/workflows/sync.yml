@@ -4,18 +4,18 @@
   uses: TG908/fork-sync@v1.2.1
   with:
     # Owner of the forked repository
-    owner: # optional
+    #owner: # optional
     # Token for the github API
-    github_token: 
+    github_token: 5d0becccefc3736a8fac2ebdf50780e9c08650cf
     # Branch to track
-    head: # optional, default is master
+    #head: # optional, default is master
     # Branch to keep updated
-    base: # optional, default is master
+    #base: # optional, default is master
     # Merge method to use
-    merge_method: # optional, default is merge
+    #merge_method: # optional, default is merge
     # The title of the pull request
-    pr_title: # optional, default is Fork Sync
+    #pr_title: # optional, default is Fork Sync
     # The message in the pull request
-    pr_message: # optional
+    #pr_message: # optional
     # ignore Exceptions
-    ignore_fail: # optional
+    #ignore_fail: # optional
